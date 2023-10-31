@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import AuthInputs from "./components/AuthInputs";
 import Header from "./components/Header";
 
